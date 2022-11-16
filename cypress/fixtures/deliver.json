@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Matheus Caputo",
+        "cpf": "00011100011",
+        "email": "matheus123@gmail.com",
+        "whatsapp": "37999999999",
+        "address":{
+            "postalcode": "35633120",
+            "street": "Rua Gustavo Capanema",
+            "number": "123",
+            "details": "AP 102",
+            "district": "São José",
+            "city_state": "Bom Despacho/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Higor Silva",
+        "cpf": "000111000QA",
+        "email": "higor09@gmail.com",
+        "whatsapp": "37999999999",
+        "address":{
+            "postalcode": "35633120",
+            "street": "Rua Gustavo Capanema",
+            "number": "123",
+            "details": "AP 102",
+            "district": "São José",
+            "city_state": "Bom Despacho/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Matheus Caputo",
+        "cpf": "00011100011",
+        "email": "matheus123.gmail.com",
+        "whatsapp": "37999999999",
+        "address":{
+            "postalcode": "35633120",
+            "street": "Rua Gustavo Capanema",
+            "number": "123",
+            "details": "AP 102",
+            "district": "São José",
+            "city_state": "Bom Despacho/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
