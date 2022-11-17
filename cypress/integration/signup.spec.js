@@ -9,7 +9,7 @@ describe('Signup', ()=>{
     //     })
     // })
 
-    it('User shoub be deliver', function(){
+    it('User should be deliver', function(){
 
         var deliver = SignupFactory.deliver();
 
